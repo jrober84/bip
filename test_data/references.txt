@@ -1,0 +1,7 @@
+id	file	identification
+ET2	/Users/jrobertson/PycharmProjects/witb/witb/test_data/references/ET2.fasta	Escherichia coli
+ET4	/Users/jrobertson/PycharmProjects/witb/witb/test_data/references/ET4.fasta	Escherichia coli
+ET6	/Users/jrobertson/PycharmProjects/witb/witb/test_data/references/ET6.fasta	Escherichia coli
+ET3	/Users/jrobertson/PycharmProjects/witb/witb/test_data/references/ET3.fasta	Escherichia coli
+ET5	/Users/jrobertson/PycharmProjects/witb/witb/test_data/references/ET5.fasta	Escherichia coli
+ET7	/Users/jrobertson/PycharmProjects/witb/witb/test_data/references/ET7.fasta	Escherichia coli

@@ -1,0 +1,7 @@
+id	identification
+ET2	Escherichia coli
+ET4	Escherichia coli
+ET6	Escherichia coli
+ET3	Escherichia coli
+ET5	Escherichia coli
+ET7	Escherichia coli
